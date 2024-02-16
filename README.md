@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi! I'm Jeffrey Shum
 
+Below, you will find some of my work.
+
+# MLH Hackathons
+
+[![](https://idemoed.vercel.app/api/wall?username=jeffreyshum)](https://devpost.com/jeffreyshum)
 <!--
 **jeffreyshum/jeffreyshum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
