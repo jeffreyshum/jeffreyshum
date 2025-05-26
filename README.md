@@ -4,7 +4,7 @@ For devpost badges https://idemoed.vercel.app/
 
 # Hi, I'm Jeffrey Shum! 👋
 
-I'm currently pursuing a B.S. in Computer Science and Applied Mathematics & Statistics and an M.S. in Computer Science at Stony Brook University through the 5-year Accelerated Masters Program. My professional experience includes research at Reliable Systems Lab, developing backend systems for AI-driven applications at IoTNation, and over three years of teaching experience.
+I'm currently pursuing an M.S. in Computer Science at Stony Brook University. My professional experience includes research at Reliable Systems Lab, developing backend systems for AI-driven applications at IoTNation, and over three years of teaching experience.
 
 # 💻 Projects
 ## ♠️ [Poker Themed Portfolio](https://github.com/jeffreyshum/portfolio-v4)
