@@ -4,7 +4,7 @@ For devpost badges https://idemoed.vercel.app/
 
 # Hi, I'm Jeffrey Shum! 👋
 
-I'm currently pursuing an M.S. in Computer Science at Stony Brook University. My professional experience includes research at Reliable Systems Lab, developing backend systems for AI-driven applications at IoTNation, and over three years of teaching experience.
+I'm currently pursuing an M.S. in Computer Science at Stony Brook University. My professional experience includes research at Reliable Systems Lab, developing backend systems for AI-driven applications at IoTNation, and over three years of teaching/tutoring experience.
 
 # 💻 Projects
 ## ♠️ [Poker Themed Portfolio](https://github.com/jeffreyshum/portfolio-v4)
@@ -18,12 +18,8 @@ Built with: React Native, TypeScript, Django, LandingAI's LandingLens
 [Devpost Submission](https://devpost.com/software/milton-a9shl7)
 
 # 📚 Technical Skills
-- Languages: JavaScript (ES6), TypeScript, Python, Java, C, HTML, CSS
-- Frameworks/Libraries: React, NextJS, Flask, styled-components
-
-# 🌱 What I'm Currently Learning
-I'm currently honing my frontend development skills and studying algorithms and software security.
-
+- Languages: JavaScript (ES6), TypeScript, Python, Java, C/C++, HTML, CSS
+- Frameworks/Libraries: React, Next.js, Node.js, Express, Django, Flask, styled-components
 
 # 📫 Let's Connect!
 Feel free to reach out or check out my portfolio for more details on my projects.
